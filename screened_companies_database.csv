@@ -1,0 +1,6 @@
+Ticker,Company_Name,Sector,Price,PE_Ratio,Beta,ROE,Dividend_Yield,Market_Cap,Revenue_Growth,MTWB_Score,Community_Score,Sports_Score,ESG_Score,Sharpe_Ratio,Sortino_Ratio,Tier,Philly_Connection,Category
+LULU,lululemon athletica inc.,Consumer Cyclical,182.99,12.49,1.02,42.42,0.0,21931444224,6.5,72,5,6,78,1.24,1.54,2,National Community Impact,Sports & Athletics
+BK,The Bank of New York Mellon Corporation,Financial Services,113.62,16.4,1.12,12.15,189.0,80129466368,10.0,68,7,3,80,1.2,1.44,3,Pennsylvania Operations,Philadelphia-Based
+DKS,"DICK'S Sporting Goods, Inc.",Consumer Cyclical,223.51,18.22,1.19,23.79,232.0,20043552768,36.3,71,8,6,88,0.82,1.4,2,National Community Impact,Sports & Athletics
+CMCSA,Comcast Corporation,Communication Services,27.43,4.56,0.83,24.19,489.0,101277229056,-2.7,71,10,3,82,1.55,1.1,2,Philadelphia Headquarters,Philadelphia-Based
+PPL,PPL Corporation,Utilities,34.64,23.56,0.7,7.66,309.0,25624565760,8.4,65,7,3,78,0.83,1.11,3,Pennsylvania Operations,Clean Energy

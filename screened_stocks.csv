@@ -1,0 +1,195 @@
+Ticker,Company_Name,Sector,Market_Cap,Price,MTWB_Score,Factor_Score,Final_Combined_Score,Community_Score,Sports_Score,Philly_Connection,Category
+WDC,Western Digital Corporation,Technology,58273757231.0,167.82,45,1.0,0.67,5,3,None,Technology
+MU,"Micron Technology, Inc.",Technology,266123695959.0,238.46,43,0.915,0.62395,5,3,None,Technology
+GOOGL,Alphabet Inc.,Technology,3866649981738.0,320.42,45,0.829,0.60177,5,3,None,Technology
+GOOG,Alphabet Inc.,Technology,3875881719440.9995,321.18,45,0.826,0.60028,5,3,None,Technology
+B,Barrick Mining Corporation,Basic Materials,71014146487.0,41.24,42,0.852,0.59274,5,3,None,Basic Materials
+BK,The Bank of New York Mellon Corporation,Financial Services,80048818094.0,114.79,63,0.503,0.57925,9,3,Philadelphia,Financial Services
+LRCX,Lam Research Corporation,Technology,201272527350.0,160.25,45,0.756,0.57243,5,3,None,Technology
+NEM,Newmont Corporation,Basic Materials,99010290266.0,90.73,44,0.662,0.5287,5,3,None,Basic Materials
+CMI,Cummins Inc.,Industrials,70630034656.0,513.02,39,0.66,0.49781,5,3,None,Industrials
+ARGX,argenx SE,Healthcare,54989315296.0,899.01,36,0.694,0.49364,5,3,None,Healthcare
+SCCO,Southern Copper Corporation,Basic Materials,115875440137.0,141.77,42,0.589,0.48741,5,3,None,Basic Materials
+AEM,Agnico Eagle Mines Limited,Basic Materials,85080976772.0,169.42,39,0.606,0.47623,5,3,None,Basic Materials
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Technology,1538997011926.0,296.73,42,0.556,0.47449,5,3,None,Technology
+AMAT,"Applied Materials, Inc.",Technology,214093669044.0,268.75,36,0.641,0.47225,5,3,None,Technology
+APH,Amphenol Corporation,Technology,168564684007.0,137.71,39,0.59,0.46984,5,3,None,Technology
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Financial Services,131764244365.0,21.86,36,0.619,0.46366,5,3,None,Financial Services
+SHOP,Shopify Inc.,Technology,207862386733.0,159.67,36,0.595,0.45405,5,3,None,Technology
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,74357743356.0,719.95,40,0.525,0.4501,5,3,None,Healthcare
+BABA,Alibaba Group Holding Limited,Consumer Cyclical,367335140502.0,158.38,38,0.55,0.44804,5,3,None,Consumer Cyclical
+KLAC,KLA Corporation,Technology,160925393812.0,1224.77,36,0.579,0.4476,5,3,None,Technology
+CRH,CRH plc,Basic Materials,80896796219.0,120.69,40,0.51,0.4439,5,3,None,Basic Materials
+NVDA,NVIDIA Corporation,Technology,4438456001826.0,182.3,38,0.539,0.44371,5,3,None,Technology
+ANET,"Arista Networks, Inc.",Technology,161792364704.0,128.54,38,0.534,0.44176,5,3,None,Technology
+GM,General Motors Company,Consumer Cyclical,71439439841.0,76.58,29,0.66,0.43818,5,3,None,Consumer Cyclical
+BKR,Baker Hughes Company,Energy,49496577921.0,50.16,40,0.485,0.43395,5,3,None,Energy
+MRK,"Merck & Co., Inc.",Healthcare,250202097293.0,99.56,42,0.442,0.42873,5,3,None,Healthcare
+TEL,TE Connectivity Ltd.,Technology,68887353843.0,234.16,35,0.545,0.42786,5,3,None,Technology
+FER,Ferrovial SE,Industrials,47538144520.0,65.93,39,0.467,0.42088,5,3,None,Industrials
+PDD,PDD Holdings Inc.,Consumer Cyclical,164691603592.0,117.7,48,0.324,0.41777,5,3,None,Consumer Cyclical
+AAPL,Apple Inc.,Technology,4125040585244.9995,279.17,33,0.537,0.41284,5,3,None,Technology
+SAN,"Banco Santander, S.A.",Financial Services,163716173656.0,11.01,31,0.557,0.40867,5,3,None,Financial Services
+ROST,"Ross Stores, Inc.",Consumer Cyclical,57569179456.0,177.01,33,0.519,0.40559,5,3,None,Consumer Cyclical
+CM,Canadian Imperial Bank of Commerce,Financial Services,84166435305.0,90.56,34,0.504,0.40555,5,3,None,Financial Services
+AXP,American Express Company,Financial Services,260585006560.0,373.46,39,0.419,0.40159,5,3,None,Financial Services
+LYG,Lloyds Banking Group plc,Financial Services,77102876345.0,5.12,36,0.461,0.40046,5,3,None,Financial Services
+BCS,BCS,Unknown,82760372393.0,23.23,32,0.516,0.39834,5,3,None,Unknown
+EW,Edwards Lifesciences Corporation,Healthcare,51002523894.0,86.86,45,0.321,0.39827,5,3,None,Healthcare
+MS,Morgan Stanley,Financial Services,281419202090.0,177.07,34,0.485,0.39793,5,3,None,Financial Services
+TRV,"The Travelers Companies, Inc.",Financial Services,63523740046.0,281.11,46,0.291,0.39257,5,3,None,Financial Services
+AZN,AstraZeneca PLC,Healthcare,280365905949.0,90.42,34,0.468,0.39115,5,3,None,Healthcare
+UBER,"Uber Technologies, Inc.",Technology,191098060141.0,91.97,45,0.302,0.39077,5,3,None,Technology
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,57049383462.0,714.45,32,0.495,0.38995,5,3,None,Healthcare
+SLB,SLB N.V.,Energy,58061342074.0,38.87,42,0.343,0.38933,5,3,None,Energy
+GD,General Dynamics Corporation,Industrials,90591073372.0,335.87,40,0.367,0.38675,5,3,None,Industrials
+NVS,Novartis AG,Healthcare,260316180641.0,133.03,42,0.331,0.3843,5,3,None,Healthcare
+GS,"The Goldman Sachs Group, Inc.",Financial Services,267989048266.0,854.23,34,0.449,0.38374,5,3,None,Financial Services
+HSBC,HSBC Holdings plc,Financial Services,245064056459.0,71.31,35,0.434,0.38369,5,3,None,Financial Services
+MFG,"Mizuho Financial Group, Inc.",Financial Services,92427486510.0,7.37,29,0.518,0.38121,5,3,None,Financial Services
+TMO,Thermo Fisher Scientific Inc.,Healthcare,217014280866.0,572.6,29,0.516,0.38041,5,3,None,Healthcare
+META,"Meta Platforms, Inc.",Technology,1695723636789.0,672.75,45,0.274,0.37974,5,3,None,Technology
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",Financial Services,73106876768.0,19.0,32,0.469,0.37967,5,3,None,Financial Services
+ING,ING Groep N.V.,Financial Services,80363468566.0,26.34,34,0.436,0.37837,5,3,None,Financial Services
+PWR,"Quanta Services, Inc.",Industrials,68490622104.0,461.55,31,0.48,0.37806,5,3,None,Industrials
+EPD,Enterprise Products Partners L.P.,Energy,70665503714.0,32.62,42,0.315,0.37788,5,3,None,Energy
+C,Citigroup Inc.,Financial Services,202368649077.0,108.76,29,0.508,0.37728,5,3,None,Financial Services
+NTES,"NetEase, Inc.",Technology,89577089684.0,140.35,42,0.308,0.37506,5,3,None,Technology
+QCOM,QUALCOMM Incorporated,Technology,188303220000.0,175.82,39,0.35,0.3741,5,3,None,Technology
+WPM,Wheaton Precious Metals Corp.,Basic Materials,49447665515.0,108.92,32,0.449,0.37142,5,3,None,Basic Materials
+GSK,GSK plc,Healthcare,98073769953.0,48.23,31,0.458,0.3694,5,3,None,Healthcare
+SU,Suncor Energy Inc.,Energy,53210105701.0,44.3,35,0.396,0.36825,5,3,None,Energy
+GE,GE Aerospace,Industrials,298533433091.0,283.02,33,0.424,0.36751,5,3,None,Industrials
+MNST,Monster Beverage Corporation,Consumer Defensive,71962331278.0,73.66,36,0.377,0.36698,5,3,None,Consumer Defensive
+FDX,FedEx Corporation,Industrials,65076516144.0,275.8,32,0.435,0.36597,5,3,None,Industrials
+WFC,Wells Fargo & Company,Financial Services,293813064548.0,90.36,35,0.389,0.36543,5,3,None,Financial Services
+CB,Chubb Limited,Financial Services,117458329117.0,293.55,44,0.251,0.3645,5,3,None,Financial Services
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",Financial Services,187541129055.0,16.27,32,0.428,0.36308,5,3,None,Financial Services
+MPLX,MPLX Lp,Energy,56881142331.0,55.82,36,0.367,0.36268,5,3,None,Energy
+CMCSA,Comcast Corporation,Communication Services,100617438906.0,27.61,59,0.021,0.36233,9,3,Philadelphia,Communication Services
+IBKR,"Interactive Brokers Group, Inc.",Financial Services,112412710380.0,65.07,30,0.454,0.36149,5,3,None,Financial Services
+JPM,JPMorgan Chase & Co.,Financial Services,862385495695.0,316.79,36,0.362,0.36076,5,3,None,Financial Services
+LIN,Linde plc,Basic Materials,187834833220.0,402.25,53,0.107,0.36072,9,3,Philadelphia,Basic Materials
+USB,U.S. Bancorp,Financial Services,80092215302.0,51.52,35,0.376,0.3604,5,3,None,Financial Services
+ITUB,Itaú Unibanco Holding S.A.,Financial Services,82774396671.0,7.71,33,0.402,0.35866,5,3,None,Financial Services
+ALL,The Allstate Corporation,Financial Services,53812863173.0,203.49,42,0.266,0.35826,5,3,None,Financial Services
+TM,Toyota Motor Corporation,Consumer Cyclical,256607790728.0,196.88,35,0.37,0.35786,5,3,None,Consumer Cyclical
+FERG,Ferguson plc,Industrials,49205334772.0,250.84,33,0.399,0.35779,5,3,None,Industrials
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,169227888555.0,152.06,30,0.438,0.35505,5,3,None,Consumer Cyclical
+BLK,"BlackRock, Inc.",Financial Services,166245832552.0,1072.87,41,0.27,0.35387,5,3,None,Financial Services
+ADI,"Analog Devices, Inc.",Technology,139516218922.0,282.2,32,0.403,0.35317,5,3,None,Technology
+URI,"United Rentals, Inc.",Industrials,52373096065.0,805.84,36,0.334,0.34946,5,3,None,Industrials
+HWM,Howmet Aerospace Inc.,Industrials,76555500000.0,190.2,35,0.347,0.34882,5,3,None,Industrials
+AMGN,Amgen Inc.,Healthcare,178191331244.0,330.92,32,0.389,0.34762,5,3,None,Healthcare
+CDNS,"Cadence Design Systems, Inc.",Technology,92003420818.0,338.0,35,0.342,0.34668,5,3,None,Technology
+BMO,Bank of Montreal,Financial Services,93225829527.0,128.91,32,0.386,0.34643,5,3,None,Financial Services
+BAC,Bank of America Corporation,Financial Services,396452956655.0,54.29,32,0.384,0.34574,5,3,None,Financial Services
+SPG,"Simon Property Group, Inc.",Real Estate,59840495598.0,183.3,32,0.383,0.34532,5,3,None,Real Estate
+CSCO,"Cisco Systems, Inc.",Technology,308027332131.0,77.96,33,0.366,0.34439,5,3,None,Technology
+WMT,Walmart Inc.,Consumer Defensive,921661577565.0,115.6,29,0.424,0.34364,5,3,None,Consumer Defensive
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,2453697112188.0,229.54,35,0.334,0.34357,5,3,None,Consumer Cyclical
+RTX,RTX Corporation,Industrials,227473547636.0,169.92,30,0.404,0.34158,5,3,None,Industrials
+UBS,UBS Group AG,Financial Services,129548508329.0,40.73,29,0.416,0.34057,5,3,None,Financial Services
+COR,"Cencora, Inc.",Healthcare,65703038410.0,338.99,32,0.364,0.3375,5,3,None,Healthcare
+CBRE,"CBRE Group, Inc.",Real Estate,47980918906.0,161.23,31,0.376,0.33652,5,3,None,Real Estate
+TD,The Toronto-Dominion Bank,Financial Services,150759713933.0,88.06,29,0.401,0.33455,5,3,None,Financial Services
+MDT,Medtronic plc,Healthcare,131282167333.0,102.36,30,0.384,0.33373,5,3,None,Healthcare
+PNC,"The PNC Financial Services Group, Inc.",Financial Services,77965021643.0,198.81,35,0.307,0.3328,5,3,None,Financial Services
+XOM,Exxon Mobil Corporation,Energy,497014067595.0,117.86,35,0.303,0.33103,5,3,None,Energy
+ISRG,"Intuitive Surgical, Inc.",Healthcare,204843095534.0,573.42,34,0.314,0.3298,5,3,None,Healthcare
+AFL,Aflac Incorporated,Financial Services,59082677273.0,109.21,36,0.276,0.32631,5,3,None,Financial Services
+ABNB,"Airbnb, Inc.",Consumer Cyclical,76503852503.0,123.69,42,0.18,0.3242,5,3,None,Consumer Cyclical
+SNPS,"Synopsys, Inc.",Technology,87048208784.0,468.65,42,0.174,0.32142,5,3,None,Technology
+TRP,TC Energy Corporation,Energy,56914202512.0,54.75,30,0.352,0.32095,5,3,None,Energy
+EOG,"EOG Resources, Inc.",Energy,62275344225.0,113.64,42,0.172,0.32083,5,3,None,Energy
+ENB,Enbridge Inc.,Energy,104928426182.0,48.13,33,0.305,0.31997,5,3,None,Energy
+TT,Trane Technologies plc,Industrials,89085862247.0,401.76,39,0.213,0.31912,5,3,None,Industrials
+FCX,Freeport-McMoRan Inc.,Basic Materials,65356383113.0,45.52,35,0.271,0.31854,5,3,None,Basic Materials
+VST,Vistra Corp.,Utilities,57338217901.0,169.23,35,0.271,0.31822,5,3,None,Utilities
+AEP,"American Electric Power Company, Inc.",Utilities,63022730400.0,117.75,29,0.359,0.3175,5,3,None,Utilities
+PFE,Pfizer Inc.,Healthcare,147316682672.0,25.91,33,0.296,0.31631,5,3,None,Healthcare
+NOC,Northrop Grumman Corporation,Industrials,77979567745.0,546.38,33,0.294,0.31568,5,3,None,Industrials
+BX,Blackstone Inc.,Financial Services,182947288783.0,152.44,32,0.307,0.31483,5,3,None,Financial Services
+OKE,"ONEOK, Inc.",Energy,48205467136.0,76.59,37,0.231,0.31424,5,3,None,Energy
+ETN,Eaton Corporation plc,Industrials,131586036000.0,338.79,36,0.244,0.31347,5,3,None,Industrials
+ABT,Abbott Laboratories,Healthcare,218170654519.0,125.34,42,0.153,0.31327,5,3,None,Healthcare
+MET,"MetLife, Inc.",Financial Services,51716980940.0,78.49,37,0.226,0.31251,5,3,None,Financial Services
+LHX,"L3Harris Technologies, Inc.",Industrials,51792913709.0,276.84,30,0.331,0.31226,5,3,None,Industrials
+BDX,"Becton, Dickinson and Company",Healthcare,55892353140.0,195.0,30,0.326,0.3104,5,3,None,Healthcare
+V,Visa Inc.,Financial Services,647482293329.0,333.68,39,0.191,0.31033,5,3,None,Financial Services
+CME,CME Group Inc.,Financial Services,97781189784.0,271.17,35,0.249,0.30955,5,3,None,Financial Services
+CVS,CVS Health Corporation,Healthcare,95753292344.0,75.43,30,0.315,0.30604,5,3,None,Healthcare
+MSFT,Microsoft Corporation,Technology,3571932763850.0,480.55,35,0.239,0.30561,5,3,None,Technology
+PLD,"Prologis, Inc.",Real Estate,119256185646.0,128.54,24,0.402,0.30462,5,3,None,Real Estate
+ET,Energy Transfer LP,Energy,57661222032.0,16.8,35,0.227,0.30092,5,3,None,Energy
+FAST,Fastenal Company,Industrials,48048422670.0,41.86,32,0.267,0.29869,5,3,None,Industrials
+BACRP,Bank of America Corporation PFD SER B 7%,Financial Services,1664970000000.0,228.0,32,0.264,0.29745,5,3,None,Financial Services
+UNP,Union Pacific Corporation,Industrials,140528681908.0,236.93,33,0.247,0.29664,5,3,None,Industrials
+PEP,"PepsiCo, Inc.",Consumer Defensive,198195243562.0,144.94,29,0.306,0.29636,5,3,None,Consumer Defensive
+UNH,UnitedHealth Group Incorporated,Healthcare,299379663910.0,330.5,31,0.272,0.29492,5,3,None,Healthcare
+VZ,Verizon Communications Inc.,Communication Services,176752556499.0,41.92,34,0.227,0.29465,5,3,None,Communication Services
+SPOT,Spotify Technology S.A.,Communication Services,115502240762.0,564.25,38,0.166,0.29456,5,3,None,Communication Services
+ACN,Accenture plc,Technology,167152404146.0,267.49,39,0.144,0.29152,5,3,None,Technology
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,70549482292.0,258.69,35,0.195,0.28798,5,3,None,Consumer Cyclical
+ECL,Ecolab Inc.,Basic Materials,73839222343.0,260.48,33,0.223,0.2873,5,3,None,Basic Materials
+IBM,International Business Machines Corporation,Technology,288197558714.0,308.32,26,0.327,0.28671,5,3,None,Technology
+IBN,ICICI Bank Limited,Financial Services,109725286284.0,30.71,37,0.161,0.2865,5,3,None,Financial Services
+ADSK,"Autodesk, Inc.",Technology,65176808397.0,305.27,32,0.236,0.28623,5,3,None,Technology
+SCHW,The Charles Schwab Corporation,Financial Services,173405708137.0,95.33,29,0.275,0.28417,5,3,None,Financial Services
+UL,Unilever PLC,Consumer Defensive,146805310879.0,59.34,33,0.214,0.28363,5,3,None,Consumer Defensive
+HDB,HDFC Bank Limited,Financial Services,60974520810.0,35.67,36,0.167,0.28284,5,3,None,Financial Services
+AMX,"América Móvil, S.A.B. de C.V.",Communication Services,65298638272.0,21.71,19,0.418,0.28103,5,3,None,Communication Services
+PGR,The Progressive Corporation,Financial Services,131384327757.0,224.09,39,0.118,0.28103,5,3,None,Financial Services
+UPS,"United Parcel Service, Inc.",Industrials,81215368099.0,95.73,33,0.196,0.27653,5,3,None,Industrials
+D,"Dominion Energy, Inc.",Utilities,50342457246.0,58.95,27,0.285,0.27603,5,3,None,Utilities
+LMT,Lockheed Martin Corporation,Industrials,105091188364.0,449.06,32,0.21,0.27592,5,3,None,Industrials
+SO,The Southern Company,Utilities,95890954037.0,87.19,32,0.197,0.27084,5,3,None,Utilities
+KO,The Coca-Cola Company,Consumer Defensive,301729396930.0,70.11,30,0.227,0.27078,5,3,None,Consumer Defensive
+CNI,Canadian National Railway Company,Industrials,61680511870.0,98.46,33,0.175,0.26815,5,3,None,Industrials
+ADBE,Adobe Inc.,Technology,144924547746.0,346.21,35,0.145,0.26809,5,3,None,Technology
+COST,Costco Wholesale Corporation,Consumer Defensive,397772796230.0,897.54,32,0.185,0.26587,5,3,None,Consumer Defensive
+MCO,Moody's Corporation,Financial Services,89460447118.0,497.62,28,0.242,0.26477,5,3,None,Financial Services
+AON,Aon plc,Financial Services,74098607801.0,342.73,32,0.179,0.26344,5,3,None,Financial Services
+EMR,Emerson Electric Co.,Industrials,77503406084.0,137.94,26,0.266,0.26237,5,3,None,Industrials
+ORCL,Oracle Corporation,Technology,604851726315.0,215.61,25,0.281,0.26225,5,3,None,Technology
+CRM,"Salesforce, Inc.",Technology,249229202868.0,260.7,28,0.235,0.26216,5,3,None,Technology
+NDAQ,"Nasdaq, Inc.",Financial Services,51945620080.0,90.45,26,0.259,0.25945,5,3,None,Financial Services
+KKR,KKR & Co. Inc.,Financial Services,116027420661.0,130.17,24,0.287,0.25873,5,3,None,Financial Services
+PYPL,"PayPal Holdings, Inc.",Financial Services,58468890543.0,62.49,39,0.061,0.25852,5,3,None,Financial Services
+MA,Mastercard Incorporated,Financial Services,492324104839.0,548.27,28,0.22,0.256,5,3,None,Financial Services
+DUK,Duke Energy Corporation,Utilities,91316869228.0,117.42,27,0.233,0.25527,5,3,None,Utilities
+PG,The Procter & Gamble Company,Consumer Defensive,337424324476.0,144.4,33,0.138,0.25309,5,3,None,Consumer Defensive
+SYK,Stryker Corporation,Healthcare,139612890945.0,365.09,31,0.167,0.25285,5,3,None,Healthcare
+NFLX,"Netflix, Inc.",Communication Services,422100545637.0,99.64,35,0.098,0.24932,5,3,None,Communication Services
+WM,"Waste Management, Inc.",Industrials,86431097122.0,214.54,29,0.188,0.249,5,3,None,Industrials
+BSX,Boston Scientific Corporation,Healthcare,144908709312.0,97.75,29,0.185,0.24805,5,3,None,Healthcare
+PSA,Public Storage,Real Estate,47899646478.0,272.99,30,0.17,0.2479,5,3,None,Real Estate
+RSG,"Republic Services, Inc.",Industrials,67672680524.0,216.35,31,0.154,0.24751,5,3,None,Industrials
+TMUS,"T-Mobile US, Inc.",Communication Services,235078244970.0,210.15,31,0.153,0.24709,5,3,None,Communication Services
+FTNT,"Fortinet, Inc.",Technology,65997728791.0,86.39,35,0.091,0.24622,5,3,None,Technology
+INTU,Intuit Inc.,Technology,186372100686.0,669.44,33,0.117,0.24489,5,3,None,Technology
+SPGI,S&P Global Inc.,Financial Services,151628614000.0,500.75,28,0.191,0.24432,5,3,None,Financial Services
+ELV,Elevance Health Inc.,Healthcare,73165445555.0,329.22,35,0.077,0.24084,5,3,None,Healthcare
+CP,Canadian Pacific Kansas City Ltd.,Industrials,67928416227.0,73.42,30,0.148,0.23924,5,3,None,Industrials
+RACE,Ferrari N.V.,Consumer Cyclical,70570558582.0,395.24,35,0.071,0.23845,5,3,None,Consumer Cyclical
+SHW,The Sherwin-Williams Company,Basic Materials,83228474534.0,334.99,26,0.206,0.23844,5,3,None,Basic Materials
+ADP,"Automatic Data Processing, Inc.",Industrials,105874153718.0,261.77,33,0.095,0.23612,5,3,None,Industrials
+HON,Honeywell International Inc.,Industrials,121676133413.0,191.65,33,0.095,0.23611,5,3,None,Industrials
+HD,"The Home Depot, Inc.",Consumer Cyclical,351908213370.0,353.58,26,0.199,0.23546,5,3,None,Consumer Cyclical
+CTAS,Cintas Corporation,Industrials,74944532824.0,185.73,32,0.104,0.23375,5,3,None,Industrials
+ICE,"Intercontinental Exchange, Inc.",Financial Services,90566815838.0,158.06,30,0.13,0.23209,5,3,None,Financial Services
+MMC,"Marsh & McLennan Companies, Inc.",Financial Services,89396833173.0,181.7,33,0.081,0.2304,5,3,None,Financial Services
+MELI,"MercadoLibre, Inc.",Consumer Cyclical,107290848364.0,2116.3,32,0.086,0.22648,5,3,None,Consumer Cyclical
+NVO,Novo Nordisk A/S,Healthcare,213895804701.0,48.12,36,0.026,0.22624,5,3,None,Healthcare
+TRI,Thomson Reuters Corporation,Industrials,60517504816.0,134.43,34,0.031,0.21628,5,3,None,Industrials
+MSI,"Motorola Solutions, Inc.",Technology,61997599681.0,372.24,25,0.155,0.21199,5,3,None,Technology
+DIS,The Walt Disney Company,Communication Services,190484420292.0,105.59,29,0.088,0.209,5,3,None,Communication Services
+BUD,Anheuser-Busch InBev SA/NV,Consumer Defensive,119533810716.0,61.21,27,0.116,0.20834,5,3,None,Consumer Defensive
+CI,Cigna Corporation,Healthcare,70809711305.0,265.08,33,0.021,0.20656,5,3,None,Healthcare
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,71467382898.0,55.37,31,0.048,0.20539,5,3,None,Consumer Defensive
+ZTS,Zoetis Inc.,Healthcare,52493172186.0,119.11,33,0.0,0.198,5,3,None,Healthcare
+CL,Colgate-Palmolive Company,Consumer Defensive,62467294601.0,77.49,26,0.103,0.19731,5,3,None,Consumer Defensive
+AJG,Arthur J. Gallagher & Co.,Financial Services,61617791700.0,239.94,29,0.029,0.1857,5,3,None,Financial Services
+RELX,RELX Plc,Communication Services,74152739102.0,40.41,26,0.046,0.17427,5,3,None,Communication Services
+ROP,"Roper Technologies, Inc.",Industrials,47982918205.0,445.79,26,0.026,0.16654,5,3,None,Industrials
+AMT,American Tower Corporation,Real Estate,84269996869.0,180.01,22,0.041,0.14857,5,3,None,Real Estate
